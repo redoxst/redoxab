@@ -10,14 +10,14 @@ body, html{
  .swiper-slide {
    text-align: center;
    font-size: 18px;
-   background: #1e1e1e;
+   background: #fff;
    /* Center slide text vertically */
    display: flex;
    justify-content: center;
    align-items: center;
    
    &:nth-child(1){
-     background: #1e1e1e;
+     background: #D8E2DC;
    }
    &:nth-child(2){
      background: #FFE5D9;

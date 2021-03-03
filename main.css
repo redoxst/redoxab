@@ -17,7 +17,7 @@ body, html{
    align-items: center;
    
    &:nth-child(1){
-     background: #D8E2DC;
+     background: #1e1e1e;
    }
    &:nth-child(2){
      background: #FFE5D9;
